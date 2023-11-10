@@ -1,5 +1,5 @@
 # type: ignore[attr-defined]
-"""Toolkit empowering Language Models (LLMs) to seamlessly interact with external APIs and tools."""
+"""Awesome `medulla` is a Python cli/package created with https://github.com/TezRomacH/python-package-template"""
 
 import sys
 

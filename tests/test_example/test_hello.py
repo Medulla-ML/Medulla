@@ -20,4 +20,5 @@ from medulla.example import hello
 )
 def test_hello(name, expected):
     """Example test with parametrization."""
+    print("hello")
     assert hello(name) == expected
